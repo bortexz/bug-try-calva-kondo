@@ -1,0 +1,4 @@
+.clj-kondo/.cache
+.portal
+.cpcache
+.lsp
